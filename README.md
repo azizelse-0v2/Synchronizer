@@ -28,7 +28,7 @@ To run this project, follow the steps below to install the necessary dependencie
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/demo-automation.git
+   git clone https://github.com/azizelse-0v2/demo-automation.git
    cd demo-automation
 Install the dependencies:
 
