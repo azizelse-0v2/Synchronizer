@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "review-automation007",
+  "private_key_id": "f8f92fc6411471b28123558fab84dd44ab024529",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDb2kybpvKnKsGA\nDlt3CxC29h7r//thzqgZ7VQ88MveTxoyQNq4gQ/sgY+qQ/fjki5snBVu0Zz0l4e/\nWK3u9gYzd6D/DAQVCQY7ItYkUQAP6q0rILxr/7kmTABU7XaMcyCIF43cluevQt2O\nFLKP4ZK2wF4TQ8w5ZjruX/xWnmwm/DZKTuSH+w3ZW2tDlyeO0ioOgMX8cpYHebdE\n2O4mftmfPdT9663CBAaDTGf6rR8ppHv+z0bGitf5Hx88oHSzJ6Zum8uEg4NKTf7K\nUBstI1MZcwPN/5864CQPOinA/8RhVT7IfoDUREhiqvmVJKkPvxVY/39Cojn0MSkj\naFYVG5PdAgMBAAECggEACp/rnjASFPhmKTPzFqHZw8XJgRqPVvmKOn/eLM3ERHDq\nhq2HWcL0S+KHrgZNMgRsAEKwxHjBJDmNzWD8kt+f4BfdbMXzYo2GQrsFwfPffrrB\ndflF3IBGEy7kFeFInolSc/vowVV89TApjdwRNGPbLRVx1m4rLfDzUyF0tpOUYsks\nQLyvh8dRcKhsZfeOdjzAM83uPWEH8x/Q49La0i4dIf+O8D+MsiJLWGwLS/wvuQ12\nkZse7tIQ8KCdHldg7G7ET/ToLRQIt2yeMwJdEsbj0qJhhmUh8LAMBX2SuJrV8VAm\nG+v/A6Z+uB2uZdkTSHgzGfipyX6RtxXHt6AtbbkwPwKBgQDvqgeSeyP5/lK/IK7L\nbpINFTtwvfIZ2ED7Ddo1NfLQ+rbu7VEgnHtB69MbctVhFRdjRBxXaFjmLDNQU9I/\ncBMeoLrC/AiRMs5y+4GuvDFHtJ2HJnGz7OalYPK9x9+hWKtV8wPrtysYk+ze1zlm\nDP5V0nUTEjvHRyLSu5uX+DKaiwKBgQDq1pLtn2HsuQCVvfSZCLmy6F3jWBNyWeQ6\nG9R9qXZ+kEpqoIxbWriDRw68FhOpIEv6j5aPkB7qRIferLxuXqeQ8mH467jBnGwH\ngcHm33ExyS45hFO1WiCBSo4MrKgIua+gs5Nt32XdKgHI0agwk/pK+5ZPgkPWB5y4\njanR6SEgNwKBgQDGa9w3D1J64G+7o6Bz9sheooyCzBAMC7nI4PAfC9pL4Lbh24NG\nX6fArTEr0YgOB3tEiRh52X94mXGmeK9iLDT4L5RQaH/jTtAT7FyywUZ/mm6tfUu3\n7lQK6dgu/bMNjy7TSw6c8hpxD8+Vs1TnQ6yyezrInlj1pNSU6hRo3mlu/wKBgAj1\nTn2KCu5A0Gjl6iK8VnkgrBQ0E+nUzAP7c8unX0HMt0oB/diuSUOYvlMmdHGLLdrN\nB21KjiNZoeU4qad8LOA2ns4kD9Qy51wR8xefhm3jwsOm7JqKaZsFAQ4yt+Y9TxnO\nP919HCGnrJHAja3styuNFVrLGVNczvmrTcMYJY9ZAoGAfoxflOOvR/zGTnCmT/p1\nvUH7AJQR3k/pc8IV8qQiD9lCa4LouhVf5eG/jRmjmUBBxe0v22jYRYS9wbw9B1Em\nB2YOaPqtiJjK8Qbhf1e3zjlT5ATCx8am/BBBpLrLuM+BEpwVO6bpPcao2nsLJMNY\nCtFEbgw0QilvuEsfjA6aRuM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "review-automator@review-automation007.iam.gserviceaccount.com",
+  "client_id": "102114888281732721945",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/review-automator%40review-automation007.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
